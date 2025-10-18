@@ -12,3 +12,4 @@ int main(){
 	printf("Average of marks : %d", average);
 	return 0;
 }
+
